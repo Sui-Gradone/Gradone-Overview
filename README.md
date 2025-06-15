@@ -3,7 +3,7 @@
 
 Gradone is a decentralized platform that empowers creators, sports clubs, and fans to mint and trade **1-of-1 NFTs** for gaming assets and sports kits. Each asset is **unique**, ensuring digital scarcity, verifiable ownership, and long-term value through blockchain-enforced scarcity and royalty mechanisms.
 
----
+----
 
 ## 📖 Overview
 
